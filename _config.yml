@@ -112,13 +112,13 @@ menu:
   - label: 'contact'
     link: '/contact/'
   - label: 'archive'
-    sub:
-      - label: 'collection'  
-        link: '/collection/'
-      - label: 'search'
-        link: '/search/'
-      - label: 'reuse'
-        link: '/reuse/'
+#    sub:
+#      - label: 'collection'  
+#        link: '/collection/'
+#      - label: 'search'
+#        link: '/search/'
+#      - label: 'reuse'
+#        link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -128,11 +128,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/maxjdugan/comparing_affects'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:comparing.affects@gmail.com'
   logos:
     - img: '/img/logo.png'
 
