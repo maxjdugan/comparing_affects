@@ -1,0 +1,61 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/ca_archive.json",
+  "@type": "sc:Collection",
+  "label": "ca_archive",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca9"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca8"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca2"
+    }
+  ]
+}
