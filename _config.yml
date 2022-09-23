@@ -105,13 +105,13 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'cfp'
+  - label: 'call for papers'
     link: '/cfp/'
   - label: 'schedule'
     link: '/schedule/'
   - label: 'contact'
     link: '/contact/'
-  - label: 'archive'
+#  - label: 'archive'
 #    sub:
 #      - label: 'collection'  
 #        link: '/collection/'
@@ -129,11 +129,17 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/maxjdugan/comparing_affects'
-    - label: 'Credits'
-      link: '/credits'
+    - label: 'Sponsors'
+      link: '/sponsors'
     - label: 'Contact'
       link: 'mailto:comparing.affects@gmail.com'
-  logos:
-    - img: '/img/logo.png'
+    - label: 'minicomp/Wax'  
+      link: 'https://github.com/minicomp/wax/'
+    - label: 'Heather Jaber'
+      link: 'https://www.qatar.northwestern.edu/directory/profiles/jaber-heather.html'
+    - label: 'Max J. Dugan'  
+      link: 'http://maxjohnsondugan.com/'
+#  logos:
+#    - img: '/img/logo.png'
 
 # FIN

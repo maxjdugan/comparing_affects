@@ -2,5 +2,24 @@
 layout: page
 show_title: false
 ---
+<h3>Click <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a> to read the full call for papers</h3>
 
+<h3>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOxN72JhqxTbVDmTHqBptXbfKcS0-21uYOdH65ot1a6EPORQ/viewform">HERE</a> to submit an abstract</h3>
 
+<br>
+
+<h3>How do Affects Compare?</h3>
+
+<p>This workshop will explore this and other questions, namely:</p>
+<li>What would a rigorous method of comparing affects look like? And how might it differ across disciplines and data types (e.g., sounds, sights, texts)?</li>
+<li>How do power asymmetries shape the measurement, detection, and tracing of some affects against others?</li>
+<li>What forces make an affect “work” in some cases and “fail” in others? What makes affects emancipatory or oppressive (or a combination of both)?</li>
+<li>What affective comparisons are already embedded in theories of affect and power?</li>
+<li>What can affective comparisons do for decolonial, postcolonial, and/or antiracist projects?</li>
+
+<br>
+
+<h3>Thanks!</h3>
+<p>We (Heather Radwan Jaber and Max Johnson Dugan) couldn't have done this without the support of several people and entities. Principal among them is <b>Donovan O. Schaefer</b>, who has not only been an extraordinarily generous teacher and mentor, but also gave incisive feedback on various elements of the workshop. <b>Emily Ganser</b> was instrumental throughout the design process--most any good aspect of the posters was their doing. <b>Cassandra Hradil</b> was also an brilliant interlocutor for the website design. May we do justice to the support these individuals offered the workshop.</p>
+
+<p>Many thanks to our co-sponsors for spreading the word about this workshop to their networks and for trusting us to further their important missions. They are: at the <b> University of Pennsylvania</b>,the <b>Department of Religious Studies</b> and the <b>Middle East Center</b>. 
