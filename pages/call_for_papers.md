@@ -36,6 +36,8 @@ permalink: /cfp/
 <li>Intensities of affect(s)</li>
 <li>Comparison of different genealogies of affect</li>
 <li>Comparison across archives</li>
+<li>Comparison across media</li>
+<li>Comparisons across social media platforms</li>
 <li>Positive/negative affects</li>
 <li>Normative/antinormative affects(s)</li>
 <li>Secular/scientific/rational affects</li>
