@@ -4,7 +4,7 @@ show_title: false
 ---
 <h3>Click <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a> to read the full call for papers</h3>
 
-<h3>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOxN72JhqxTbVDmTHqBptXbfKcS0-21uYOdH65ot1a6EPORQ/viewform">HERE</a> to submit an abstract</h3>
+<h3>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOxN72JhqxTbVDmTHqBptXbfKcS0-21uYOdH65ot1a6EPORQ/viewform">HERE</a> to submit an abstract (deadline: December 2, 2022</h3>
 
 <br>
 
@@ -22,4 +22,4 @@ show_title: false
 <h3>Thanks!</h3>
 <p>We (Heather Radwan Jaber and Max Johnson Dugan) couldn't have done this without the support of several people and entities. Principal among them is <b>Donovan O. Schaefer</b>, who has not only been an extraordinarily generous teacher and mentor, but also gave incisive feedback on various elements of the workshop. <b>Emily Ganser</b> was instrumental throughout the design process--most any good aspect of the posters was their doing. <b>Cassandra Hradil</b> was also an brilliant interlocutor for the website design. May we do justice to the support these individuals offered the workshop.</p>
 
-<p>Many thanks to our co-sponsors for spreading the word about this workshop to their networks and for trusting us to further their important missions. They are: at the <b>University of Pennsylvania</b>, the <b>Department of Religious Studies</b>, the <b>South Asia Center</b>, the <b>Center for Advanced Research in Global Communications</b>, the <b>Center on Digital Culture and Society</b>, and the <b>Middle East Center</b>, and at <b>Northwestern Qatar</b>: the <b>Institute for Advanced Study in the Global South</b>. 
+<p>Many thanks to our co-sponsors for spreading the word about this workshop to their networks and for trusting us to further their important work. They are: at the <b>University of Pennsylvania</b>, the <b>Department of Religious Studies</b>, the <b>South Asia Center</b>, the <b>Center for Advanced Research in Global Communications</b>, the <b>Center on Digital Culture and Society</b>, the <b>Middle East Center</b>, and the <b>Department of Africana Studies,</b>and at <b>Northwestern Qatar</b>: the <b>Institute for Advanced Study in the Global South</b>. 
