@@ -11,7 +11,7 @@ permalink: '/sponsors/'
 <li>The <a href="https://www.southasiacenter.upenn.edu/">South Asia Center</a>.</li>
 <li>The <a href="https://www.asc.upenn.edu/research/centers/center-on-digital-culture-and-society">Center on Digital Culture and Society</a>.</li>
 <li>The <a href="https://www.asc.upenn.edu/research/centers/center-for-advanced-research-in-global-communication">Center for Advanced Research in Global Communications</a>.</li>
-<li>The <a href="https://africana.sas.upenn.edu/">Department of Africana Studies</a>.</li>
+<li>The <a href="https://africana.sas.upenn.edu/">Center for Africana Studies</a>.</li>
 
 
 <h3>At Northwestern Qatar</h3>
