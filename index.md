@@ -4,7 +4,7 @@ show_title: false
 ---
 <h3>Click <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a> to read the full call for papers</h3>
 
-<h3>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOxN72JhqxTbVDmTHqBptXbfKcS0-21uYOdH65ot1a6EPORQ/viewform">HERE</a> to submit an abstract (deadline: December 2, 2022</h3>
+<h3>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOxN72JhqxTbVDmTHqBptXbfKcS0-21uYOdH65ot1a6EPORQ/viewform">HERE</a> to submit an abstract (deadline: December 9, 2022)</h3>
 
 <br>
 
