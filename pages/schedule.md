@@ -21,7 +21,7 @@ All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
 <b>Candace Lukasik</b> (Mississippi State University)<br>
 <i>The Ordinary Affects of U.S. Empire</i>
 
-<b>Max Johnson Dugan</b> (University of Pennsylvania)
+<b>Max Johnson Dugan</b> (University of Pennsylvania)<br>
 <i>TITLE TBA</i>
 
 <h2>12:00: Coffee & Tea Break</h2>
@@ -46,13 +46,14 @@ All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
 <i>Image and Affect</i>
 
 <b>Lucila Rozas Urrunaga</b> (University of Pensylvania)<br>
-<i>Title TBA</i></i>
+<i>Title TBA</i>
 
 <b>Amrita De</b> (Pennsylvania State University)<br>
 <i>Translating Global South Inc. Masculinity : Marking Networked Affect in White Tiger and Congo Inc.</i>
 
 <h2>4:15: Closing Reflections</h2>
 
+<br>
 
 <h1>Sunday, March 19</h1>
 
