@@ -13,7 +13,7 @@ All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
 <h2>10:15 ET: Sensing Everyday Feelings</h2> 
 
 <b>Laçin Tutalar</b> (TED University)<br>
-<i>A Paternal Rhythm of Billboards in 2023 Turkish Elections: Using Sentiment, Fantasy of Wealth & Heroic Kitsch to be Elected</i>
+<i>A Paternal Rhythm of 2023 Turkish Elections: Using Sentiment, Fantasy of Wealth & Heroic Kitsch</i>
 
 <b>Zeina Tarraf</b> (American University of Beirut)<br>
 <i>The Politics of Public Feeling During Lebanon’s 2019 Uprisings</i>
@@ -32,7 +32,7 @@ All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
 <i>Queer Affects of Infrastructural Precarity: from Urban Redevelopment to Climate Emergency</i>
 
 <b>Penelope Lusk</b> (University of Pennsylvania)<br>
-<i>TITLE TBA</i>
+<i>One Person’s Shame is Another Person’s Schooling: Comparing Shame in Institutional Life</i>
 
 <b>Renata Prati</b> (University of Buenos Aires)<br>
 <i>Affective Comparison and Idioms of Distress: Legibility, Translation, Power</i>
