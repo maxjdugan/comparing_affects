@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 ---
-<h3>Click <a href="https://www.eventbrite.com/e/comparison-affects-power-tickets-555862568907">HERE</a> to register to attend the workshop. (If you have trouble registering, please email <a href="mailto:max.j.dugan@gmail.com">Max Johnson Dugan</a> and <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a></h3>)
+<h3>Click <a href="https://www.eventbrite.com/e/comparison-affects-power-tickets-555862568907">HERE</a> to register to attend the workshop. (If you have trouble registering, please email <a href="mailto:max.j.dugan@gmail.com">Max Johnson Dugan</a> and <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a>)</h3>
 
 <h3>Click <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a> to read the full call for papers</h3>
 
