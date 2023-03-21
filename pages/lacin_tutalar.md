@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Lacin Tutalar
-permalink: /lacin_tutalar
+permalink: /lacin_tutalar/
 ---
 
-<h3>TA Paternal Rhythm of 2023 Turkish Elections: Using Sentiment, Fantasy of Wealth & Heroic Kitsch</h3>
+<h3>A Paternal Rhythm of 2023 Turkish Elections: Using Sentiment, Fantasy of Wealth & Heroic Kitsch</h3>
 
 <h3>Lacin Tutalar</h3>
 
