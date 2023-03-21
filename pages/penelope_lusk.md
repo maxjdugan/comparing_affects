@@ -1,0 +1,11 @@
+---
+layout: page
+title: Penelope Lusk
+permalink: /penelope_lusk/
+---
+
+<h3>One Person’s Shame is Another Person’s Schooling: Comparing Shame in Institutional Life</h3>
+
+<p>Shame is a core ‘social affect,’ one emotional response to the wielding of social norms. As such, shame can play an outsize role in normative social institutions, especially schooling. This paper compares discourses of shame in schooling, specifically how shame/shaming function as affective dimensions of power. Some social theorists and educational philosophers see shame as pro-social and learning-supportive, others as destructive and phenomenologically devastating. Both question whether painful shame is ‘worth it’ to ensure a student learns a lesson. Building on Foucault’s (1975) description of shame in schools and modern studies of shame and shaming in schools, this paper compares constructions of shame in schooling. Further, it integrates and compares Levinasian ethics, feminist ethics, and normative ethics of education to strive towards an ethic of shame in schooling. The comparative question underscoring the ethic is not is ‘shame in schooling ‘good’ or ‘bad’?’ but, ‘how do different understandings of shame shape the circulation of power in schooling?’ Comparing shame discourses centralizes diverse affective forms: shame is specific to a racialized, gendered, and Othered or not-othered subject in culture and society. While some education institutions historically used shame to school, the ethic of shame addresses the unpredictable relationship between shame and shaming (some subjects experience shame without shaming, others are immune or resistant to shaming). Through on scholars of affective difference and affective resistance (Ahmed, 2014; Yao, 2021) and of affect as social force (Gould, 2009), the ethic of shame also implies an ethic of affect-as-power in institutions of learning.</p>
+
+<p>Penelope Lusk is a doctoral student at the University of Pennsylvania, studying Education, Culture, and Society with a Certificate in Gender, Women’s, and Sexuality Studies. She holds an MS in Narrative Medicine from Columbia University and was previously a Fulbright fellow with Exeter University’s Shame and Medicine project. She studies affect (especially shame), gendered bodies, health, and education.</p>

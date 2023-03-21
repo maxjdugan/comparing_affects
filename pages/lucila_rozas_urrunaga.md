@@ -1,0 +1,11 @@
+---
+layout: page
+title: Lucila Rozas Urrunaga
+permalink: /lucila_rozas_urrunaga/
+---
+
+<h3>The Affective Object as an Approximation to the Feminist Affect of the Ni Una Menos Tide: A Multimodal Analysis of the Performance "Un Violador En Tu Camino"</h3>
+
+<p>Collective mourning set the starting point of a feminist transnational tide represented by the Ni Una Menos movement, which mobilized against the systematic, cruel, and state-sponsored feminicides in Argentina. The tide has been growing ever since, circulating emotions of grief and desire through various forms of protest, from social media events to public performances. This has resonated with and influenced the expansion of the tide among bodies and territories that continue being degraded by, but also resisting colonial, capitalist, neoliberal, and patriarchal, power, thus articulating a feminist political subjectivity as “brown commons”. In this work, I want to focus on the specific feminist affects that characterize this tide and what they do. I understand affects as fleeting, embodied sensations that surface in the contact between bodies and territories. They are thus, only partially represented through affective objects (the material) that contain a communicable, culturally specific emotional habitus that provides a script “of what and how we must feel”. While this raises difficulties to study affects, I argue that we may do so by approaching the affective objects as bidimensional: both as representations (containers of the emotional habitus, with an explicit pedagogical intention) and performances (instigators of sensation that, in touching, situate bodies and territories in common existence and in regard to power). This may thus, entail analyzing the same objects in parallel, using multimodal methodologies that allow us both to “read” them as contextualized, and exploring how we and others, as positioned subjects, experience them in repeated contact.</p>
+
+<p>Lucila Rozas is a Ph.D. student at the Annenberg School of Communication. Her research examines South American feminist movements and the affective counterpublics emerging in transnational/translocal activist spaces. Currently, she is working on a piece about translocal alliances and feminist practices of knowledge translation looking at the case of the Chilean performance "Un Violador en Tu Camino".</p>

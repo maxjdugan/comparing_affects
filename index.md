@@ -2,15 +2,15 @@
 layout: page
 show_title: false
 ---
-<h3>Click <a href="https://www.eventbrite.com/e/comparison-affects-power-tickets-555862568907">HERE</a> to register to attend the workshop. (If you have trouble registering, please email <a href="mailto:max.j.dugan@gmail.com">Max Johnson Dugan</a> and <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a>)</h3>
+<h3>This workshop took place on March 18 and 19, 2023. Read more about the the CFP <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a>, the schedule here <a href="https://maxjdugan.github.io/comparing_affects/schedule/">HERE</a>, and the presenters in the dropdown menu.</h3>
 
-<h3>Click <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a> to read the full call for papers</h3>
+<h3>Keep an eye out for future iterations of this workshop format! Email <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a> and <a href="mailto:max.j.dugan@gmail.com">max.j.dugan@gmail.com</a>if you have any questions or would like to learn more.</h3>
 
 <br>
 
 <h3>How do Affects Compare?</h3>
 
-<p>This workshop will explore this and other questions, namely:</p>
+<p>This workshop explored this and other questions, namely:</p>
 <li>What would a rigorous method of comparing affects look like? And how might it differ across disciplines and data types (e.g., sounds, sights, texts)?</li>
 <li>How do power asymmetries shape the measurement, detection, and tracing of some affects against others?</li>
 <li>What forces make an affect “work” in some cases and “fail” in others? What makes affects emancipatory or oppressive (or a combination of both)?</li>

@@ -1,0 +1,11 @@
+---
+layout: page
+title: Samira Rajabi
+permalink: /samira_rajabi/
+---
+
+<h3>Feeling Loss: Mediations of Pregnancy Loss & the Affective Marking of Bodies</h3>
+
+<p>Pregnancy loss is an inherently embodied experience. Though much of this physical, material experience is occluded even from the body experiencing it due to a lack of attention to women or women identifying bodies’ experiences in medicine, digital media offers a space for birthing people to interrogate the affective textures of this experience. These textures are not equally legible across intersections of bodies. In this project, I explore the way race, gender, and celebrity intersect in testimonies about miscarriage/pregnancy loss in order to compare the way differently marked bodies are permitted to feel their loss in ways that either feel authentic to them or are deemed authentic by commentators. In comparing the losses of three celebrities (Chrissy Teigen, Meghan Markle, Jessi J) alongside the comments of their followers who share their own losses, and comments from other social media users, I explore how different bodies are able to deploy affect to obtain community, connection, care or solidarity, while others are dismissed. I attempt, in comparing the responses to the celebrities and their followers based on gender, race, and celebrity, to interrogate how social capital can both offer affective sympathies of render affect disempowering through a dismissal of the suffering body as inauthentic or unworthy of their feelings. The comparisons will be made of three qualitative case studies using data from Twitter from 2020-2021 in which tweets were analyzed as they relate to the question: who is allowed to feel pregnancy loss publicly and why?</p>
+
+<p>Samira Rajabi, PhD, is an assistant professor in the Department of Media Studies. Previously, she was a post-doctoral fellow at the Center for Advanced Research in Global Communication at the Annenberg School at the University of Pennsylvania from 2017-2019. Her book All of My Friends Live in My Computer: Tactical Media, Trauma and Meaning Making was published in May of 2021 by Rutgers University Press. Samira specializes in issues regarding digital media, politics of suffering, the body, race, gender, ability and trauma.</p>

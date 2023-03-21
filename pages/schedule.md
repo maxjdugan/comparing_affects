@@ -22,7 +22,7 @@ All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
 <i>The Ordinary Affects of U.S. Empire</i>
 
 <b>Max Johnson Dugan</b> (University of Pennsylvania)<br>
-<i>TITLE TBA</i>
+<i>Feeling “Suss” or “Intimacy”: Formations of difference in two feelings about the smell of a Halal Butcher</i>
 
 <h2>12:00: Coffee & Tea Break</h2>
  
@@ -46,7 +46,7 @@ All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
 <i>Image and Affect</i>
 
 <b>Lucila Rozas Urrunaga</b> (University of Pensylvania)<br>
-<i>Title TBA</i>
+<i>The Affective Object as an Approximation to the Feminist Affect of the Ni Una Menos Tide: A Multimodal Analysis of the Performance "Un Violador En Tu Camino"</i>
 
 <b>Amrita De</b> (Pennsylvania State University)<br>
 <i>Translating Global South Inc. Masculinity : Marking Networked Affect in White Tiger and Congo Inc.</i>

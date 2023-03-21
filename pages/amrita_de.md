@@ -1,0 +1,11 @@
+---
+layout: page
+title: Amrita De
+permalink: /amrita_de/
+---
+
+<h3>Translating Global South Inc. Masculinity : Marking Networked Affect in White Tiger and Congo Inc.</h3>
+
+<p>Using Hector Hoyos’s model of transcultural materialism and Todd Reeser’s delineation of affective masculinities as a heuristic, I draw attention to the fantastical nature of sociality promoted by interconnected digitalism. Through a comparative analysis of Aravind Adiga’s (2008) White Tiger and Koli Jean Bofane’s  (2018) Congo Inc, I map how non instrumental satirical storytelling retroactively writes the protagonist’s gendered self into existence through digital intimacies facilitated by accelerated transnational flows of economic capital. Set in India and Congo respectively, both these texts are imbricated in an aspirational dialogic relationship to China.This also becomes the symbolic ground on which these writers hope to inscribe an intellectual emancipatory practice and domestication of the world, in the process, centering global south-south nexus as a method. Bofane and Adiga’s texts allow other regions to become one another’s reference points so that the understanding of self can be transformed and dynamically engaged in meaning-making transactions to render visible the many extractivist flashpoints within existing global supply chains.This article’s focus on entrepreneurial masculinity, writing selfhood, and satirical form through its theoretical focus on transcultural materialism and affect draws attention to regions in the global south, where ongoing extractivism maintains the putative economic stability of the global North. Finally, the article draws attention to the concomitant affective fragilities within this stability, underscoring how it can be challenged through the act of writing.</p>
+
+<p>Amrita De is a Postdoctoral fellow in the Center of Humanities and Information at Penn State University. Her research focuses on global south masculinity studies and affect theory. Her works have been published in NORMA, Boyhood Studies, and Global Humanities and are forthcoming in other edited collections. She is also working on her first novel centered around contemporary Indian Masculinities.</p>

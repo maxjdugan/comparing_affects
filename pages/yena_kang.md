@@ -1,0 +1,11 @@
+---
+layout: page
+title: Yena Kang
+permalink: /yena_kang/
+---
+
+<h3>From Kung Flu to Squid Game Man: Asian Diasporic Audiences’ Playing with Minor Feelings in the White Imagination</h3>
+
+<p>I analyze how Asian diasporic audiences consume Squid Game and produce meaning in White-dominant societies. Although the COVID-19 outbreak has exacerbated existing anti-Asian sentiment toward Asian diasporic communities, with the massive global success of Squid Game, Korean popular culture and Asian culture broadly have been spotlighted. How have Asians’ racialized experiences—in between being hated and being fetishized—influenced Asian diasporic communities’ interaction and cultural production in response to the worldwide fame of Squid Game?  Drawing on Bonilla-Silva’s (2019) racialized emotion and Sianne Ngai’s ugly feelings, I conceptualize racialized minor feelings and examine how Asian diasporic users, particularly Asian TikTok creators, engage with Squid Game and reveal their racial sufferings with the use of playful platform vernaculars. Based on a multimodal critical discourse analysis, I reveal that Asian diasporic TikTok users show not only excitement and Asian pride concerning Squid Game’s booming popularity but also anger and frustration toward the White hegemonic gaze that homogenizes, commodifies, and fetishizes Asian people. Additionally, the Asian diaspora’s racialized minor feelings are often compared with the racialized sufferings of Black creators, which is articulated with both interracial solidarity and tension. These findings suggest the Asian diaspora’s reception and memetic cultural production of Squid Game enable the Asian diaspora to make their racialized minor feelings visible and perform coping tactics in challenging anti-Asian racism and unveiling the White hegemonic imagination of Asians.</p>
+
+<p>Yena Kang is a PhD candidate at the University of Massachusetts Amherst. Her research areas include digital culture, social movements, and critical platform studies that intersect with race and gender. Her recent work has focused on how affect and memory work play a key role in building interracial solidarity between Black and Asian communities beyond the color lines.</p>
