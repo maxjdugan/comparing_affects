@@ -4,8 +4,6 @@ title: Schedule
 permalink: '/schedule/'
 ---
 
-All the times below are listed in <b>GMT-5/Eastern Standard Time</b>.
-
 <h1>Saturday, March 18</h1>
             	
 <h2>10:00 ET: Opening Remarks</h2>
