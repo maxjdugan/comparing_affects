@@ -109,6 +109,11 @@ menu:
     link: '/cfp/'
   - label: 'schedule'
     link: '/schedule/'
+  - label: 'speakers'
+    sub:
+      - label: 'Lacin Tutalar'  
+        link: '/lacin_tutalar/'
+    link: '/speakers/'
   - label: 'contact'
     link: '/contact/'
 #  - label: 'archive'
