@@ -8,6 +8,16 @@ layout: none
   "label": "ca_archive",
   "manifests": [
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ca11"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ca10/manifest.json",
       "@type": "sc:Manifest",
       "label": "ca10"

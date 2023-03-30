@@ -18,6 +18,21 @@ layout: none
     "lunr_id": 0
   },
   {
+    "pid": "ca12",
+    "label": "A slide from Lacin Tutalar's presentation",
+    "creator": "Max Johnson Dugan",
+    "source": "Lacin Tutalar",
+    "_date": "March 2023",
+    "description": "An image of a slide from Latin Tutalar's presentation",
+    "url_original": "N/A",
+    "url_video": "N/A",
+    "attribution": "Lacin Tutalar",
+    "collection": "ca_archive",
+    "thumbnail": "/img/derivatives/iiif/images/ca12/full/250,/0/default.jpg",
+    "permalink": "/ca_archive/ca12",
+    "lunr_id": 1
+  },
+  {
     "pid": "ca9",
     "label": "Muslim Fraternity Bro",
     "creator": "Max Johnson Dugan",
@@ -30,7 +45,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca9/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca9",
-    "lunr_id": 1
+    "lunr_id": 2
   },
   {
     "pid": "ca2",
@@ -45,7 +60,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca2/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca2",
-    "lunr_id": 2
+    "lunr_id": 3
   },
   {
     "pid": "ca6",
@@ -60,7 +75,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca6/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca6",
-    "lunr_id": 3
+    "lunr_id": 4
   },
   {
     "pid": "ca7",
@@ -75,7 +90,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca7/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca7",
-    "lunr_id": 4
+    "lunr_id": 5
   },
   {
     "pid": "ca3",
@@ -90,7 +105,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca3/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca3",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "ca4",
@@ -105,7 +120,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca4/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca4",
-    "lunr_id": 6
+    "lunr_id": 7
   },
   {
     "pid": "ca1",
@@ -120,7 +135,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca1/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca1",
-    "lunr_id": 7
+    "lunr_id": 8
   },
   {
     "pid": "ca5",
@@ -135,7 +150,7 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca5/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca5",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "ca10",
@@ -150,6 +165,21 @@ layout: none
     "collection": "ca_archive",
     "thumbnail": "/img/derivatives/iiif/images/ca10/full/250,/0/default.jpg",
     "permalink": "/ca_archive/ca10",
-    "lunr_id": 9
+    "lunr_id": 10
+  },
+  {
+    "pid": "ca11",
+    "label": "A screenshot taken by Lauren Horn Griffin",
+    "creator": "Max Johnson Dugan",
+    "source": "Unknown",
+    "_date": "March 2023",
+    "description": "A screenshot sent by Laurent Horn Griffin to Max Johnson Dugan",
+    "url_original": "N/A",
+    "url_video": "N/A",
+    "attribution": "Lauren Horn Griffin",
+    "collection": "ca_archive",
+    "thumbnail": "/img/derivatives/iiif/images/ca11/full/250,/0/default.jpg",
+    "permalink": "/ca_archive/ca11",
+    "lunr_id": 11
   }
 ]

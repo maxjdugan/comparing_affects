@@ -12,6 +12,6 @@ order: '00'
 layout: ca_archive_item
 collection: ca_archive
 thumbnail: "/img/derivatives/iiif/images/ca1/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/ca1/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/ca1/manifest.json"
+full: "/img/derivatives/iiif/images/ca1/full/1140,/0/default.jpg"
 ---

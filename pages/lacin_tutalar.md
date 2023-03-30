@@ -3,6 +3,8 @@ layout: page
 title: Lacin Tutalar
 permalink: /lacin_tutalar/
 ---
+{% include inline_image.html collection='ca_archive' pid='ca12' %}
+<br>
 
 <h3>A Paternal Rhythm of 2023 Turkish Elections: Using Sentiment, Fantasy of Wealth & Heroic Kitsch</h3>
 

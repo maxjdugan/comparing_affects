@@ -13,6 +13,6 @@ order: '05'
 layout: ca_archive_item
 collection: ca_archive
 thumbnail: "/img/derivatives/iiif/images/ca6/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/ca6/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/ca6/manifest.json"
+full: "/img/derivatives/iiif/images/ca6/full/1140,/0/default.jpg"
 ---
