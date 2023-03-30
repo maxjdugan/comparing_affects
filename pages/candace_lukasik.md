@@ -3,8 +3,9 @@ layout: page
 title: Candace Lukasik
 permalink: /candace_lukasik/
 ---
-
+<br>
 <h4>“Considering the explosion of American-styled beach towns, the post-Arab Spring push for the expansion of American franchises in Egypt, the focus on American clothing brands, and the overall dream of immigration to the U.S. by way of the Green Card Lottery, ‘where is America not?'"</h4>
+<br>
 
 <iframe width="876" height="493" src="https://www.youtube.com/embed/3FfMVZJR0dM" title="Cali Coast | California Dreaming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

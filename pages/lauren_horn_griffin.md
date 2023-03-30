@@ -3,8 +3,9 @@ layout: page
 title: Lauren Horn Griffin
 permalink: /lauren_horn_griffin/
 ---
-
+<br>
 <h4>“Rather than view veiling and head covering movements as a return to tradition, we can read them cultural tools that participate in present-day conversations. Read in this relational context, veiling can be seen a radical act, or a transgression of norms both within and outside Catholic communities. While the rhetoric surrounding the veil centers other terms, affective visual presentations highlight feelings of self-possession, empowerment, and the rush of feeling radical."</h4>
+<br>
 
 <h3>TikTok and Affective Publics</h3>
 

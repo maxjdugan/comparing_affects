@@ -3,8 +3,9 @@ layout: page
 title: Jake Nussbaum
 permalink: /jake_nussbaum/
 ---
-
+<br>
 <h4>"For Sun Ra, “endlessness” was not a singular endpoint at the end of the linear march toward progress, but a place beyond time itself that was inherently unstable, unknowable, ungovernable, and black, what he called the Omniverse."</h4>
+<br>
 
 <h3>Comparing Timecraft at the Penn Museum: Sun Ra, Abolition, and the Possession of Human Remains</h3>
 
