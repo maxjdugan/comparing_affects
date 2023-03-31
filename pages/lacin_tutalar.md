@@ -3,8 +3,10 @@ layout: page
 title: Lacin Tutalar
 permalink: /lacin_tutalar/
 ---
-{% include inline_image.html collection='ca_archive' pid='ca12' %}
 <br>
+<h4>“Sentimentality has a different use of affect. Implied by sentimentality, there's a disconnect from the lived reality of the body. (...) Electoral campaigns bypass the body’s lived reality, and instead focus on a fantasy of wealth. What the quake intervened with was this fixation with fantasy."</h4>
+
+{% include inline_image.html collection='ca_archive' pid='ca12' %}
 
 <h3>A Paternal Rhythm of 2023 Turkish Elections: Using Sentiment, Fantasy of Wealth & Heroic Kitsch</h3>
 

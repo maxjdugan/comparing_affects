@@ -4,7 +4,7 @@ show_title: false
 ---
 <h3>This workshop took place on March 18 and 19, 2023. Read more about the the CFP <a href="https://maxjdugan.github.io/comparing_affects/cfp/">HERE</a>, the schedule here <a href="https://maxjdugan.github.io/comparing_affects/schedule/">HERE</a>, and the presenters in the dropdown menu.</h3>
 
-<h3>Keep an eye out for future iterations of this workshop format! Email <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a> and <a href="mailto:max.j.dugan@gmail.com">max.j.dugan@gmail.com</a>if you have any questions or would like to learn more.</h3>
+<h3>Keep an eye out for future iterations of this workshop format! Email <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a> and <a href="mailto:max.j.dugan@gmail.com">max.j.dugan@gmail.com</a> if you have any questions or would like to learn more.</h3>
 
 <br>
 
