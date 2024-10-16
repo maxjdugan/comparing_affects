@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call For Papers
-permalink: /cfp/
+title: Call For Papers 2023
+permalink: /cfp_2023/
 ---
 <p>How do affects compare? Comparison clarifies the particularities of a thing by testing it against similarity and difference. The comparison of different reactions to a portrait of Trump reveals a structure of feeling white. Rigorous comparisons of affect also elucidate power. A politics of feeling comes into sharp relief when we compare the love that orients bodies to an imagined white nation (Ahmed 2004) with the religious masculinities that orient others to governance and violence (Khoja-Moolji 2021). Rigorous comparisons denaturalize power relations and debunk identitarian assumptions; they link contexts, bodies, and practices which are considered distinct; and they tether and untether as political acts. There is untapped potential in the comparison of affects-–a potential that traces back through the conceptual foundations of affect theory and brings us to its emergent future.</p>
 

@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'COMPARISON, AFFECTS, & POWER'
+title:            'COMPARING AFFECTS'
 description:      ''
 url:              'https://maxjdugan.github.io'
 baseurl:          '/comparing_affects'
-copyright:        'Max Johnson Dugan & Heather Radwan Jaber, 2022'
+copyright:        'Max Johnson Dugan & Heather Radwan Jaber, 2024'
 logo:             #old formatting: '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -105,12 +105,14 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'call for papers'
-    link: '/cfp/'
-  - label: 'schedule'
-    link: '/schedule/'
-  - label: 'speakers'
+  - label: 'call for papers 2025'
+    link: '/cfp_2025/'
+  - label: 'workshop 2023'
     sub:
+      - label: 'About'
+        link: '/about/'
+      - label: 'Schedule'
+        link: '/schedule/'
       - label: 'Lacin Tutalar'  
         link: '/lacin_tutalar/'
       - label: 'Zeina Tarraf'  
