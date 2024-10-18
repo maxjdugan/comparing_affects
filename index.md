@@ -12,4 +12,6 @@ show_title: false
 
 <p>Email <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a> and <a href="mailto:max.j.dugan@gmail.com">max.j.dugan@gmail.com</a> if you have any questions or would like to learn more.</p>
 
-<img src="https://maxjdugan.github.io/comparing_affects/img/Attaching_Affects_Poster.png" alt="workshop poster">
+<br>
+
+<img src="https://maxjdugan.github.io/comparing_affects/img/Attaching_Affects_Poster.png" alt="workshop poster" width="400px">
