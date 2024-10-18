@@ -105,12 +105,14 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'call for papers 2025'
+  - label: 'call for papers'
     link: '/cfp_2025/'
   - label: 'workshop 2023'
     sub:
       - label: 'About'
         link: '/about/'
+      - label: 'CFP 2023'
+        link: '/cfp_2023/'
       - label: 'Schedule'
         link: '/schedule/'
       - label: 'Lacin Tutalar'  
