@@ -14,4 +14,4 @@ show_title: false
 
 <br>
 
-<img src="https://maxjdugan.github.io/comparing_affects/img/Attaching_Affects_Poster.png" alt="workshop poster" width="400px">
+<img src="https://maxjdugan.github.io/comparing_affects/img/Attaching_Affects_Poster.png" alt="workshop poster" width="400px" class="center">
