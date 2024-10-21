@@ -20,7 +20,7 @@ permalink: /cfp_2025/
 <br>
 <p>The <a href="https://maxjdugan.github.io/comparing_affects/about">2023 inaugural Comparing Affects Workshop</a> invited 20 scholars to discuss methods for studying affect theory and the politics of comparing affects. The 2025 series invites scholars to consider approaches to the attachment of affects and their connections to power. This biennial workshop will take place virtually on <b>February 22, 2025</b>.</p>
 
-<p>Applicants may submit a 300-word abstract, which describes your project, its method, and its relationship to affective attachments, to: <a href="bit.ly/attachingaffects">bit.ly/attachingaffects</a> The application deadline is <b>December 9, 2024</b>. Your project should be suitable for a 15-minute presentation. Works-in-progress are welcome. Questions and other inquiries can be sent to <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a>.</p>
+<p>Applicants may submit a 300-word abstract, which describes your project, its method, and its relationship to affective attachments, to: <a href="http://bit.ly/attachingaffects">bit.ly/attachingaffects</a>. The application deadline is <b>December 9, 2024</b>. Your project should be suitable for a 15-minute presentation. Works-in-progress are welcome. Questions and other inquiries can be sent to <a href="mailto:comparing.affects@gmail.com">comparing.affects@gmail.com</a>.</p>
 
 #### <a href="https://docs.google.com/document/d/1VxfcQeCVJBvyLXmSztC8_tTZsZ0qDbBGchY2ctGTleY/edit?tab=t.0#heading=h.6mtsz3cvq4wt">Orienting Citations</a>:
 <p>[1]: Chen 2012; Gould 2009; Schaefer 2015, 2018, 2022; Sedgwick and Frank 1995; Seigworth and Pedwell 2023; Slaby and von Scheve 2019; Thomas 2010.</p>
